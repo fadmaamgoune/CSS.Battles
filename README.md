@@ -30,7 +30,4 @@ The goal is to recreate the target design using HTML and CSS while writing clean
 
 ## Profile
 
-[CSSBattle Profile]https://cssbattle.dev/player/2PxhidN7XRQsWOzl4YVYiMgxzii1
-
-GitHub:
-(ضع هنا رابط حسابك على GitHub)
+CSSBattle Profile:   https://cssbattle.dev/player/2PxhidN7XRQsWOzl4YVYiMgxzii1
